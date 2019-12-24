@@ -1,1 +1,1 @@
-call CreateLienArbreFournisseur(1,1,1,1)
+call CreateLienArbreFournisseur(1,1,1,2)
